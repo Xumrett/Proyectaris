@@ -1,7 +1,7 @@
 import os
 import sys
 import json 
-import numpy
+
 import twilio
 import pandas
 import requests
