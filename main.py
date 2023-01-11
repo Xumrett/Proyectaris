@@ -8,7 +8,7 @@ from os import  path
 
 
 
-#Home programa Este Programa Ahra Casi Todo Por mi Desde Guardar Un Docunento A Combiar Renombrar Y mas vercion 1.1.3 
+#Home programa Este Programa Ahra Casi  yes Todo Por mi Desde Guardar Un Docunento A Combiar Renombrar Y mas vercion 1.1.3 
 
 #Recurse Home
 title_descript = "Proyecto Aris"
