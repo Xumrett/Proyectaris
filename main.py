@@ -2,8 +2,8 @@ import os
 import sys
 
 from os import remove
-from os import  path
-
+desde  la   ruta  de   importacion  del  sistema    operativo
+ import colorama from init, Fore
 
 
 
