@@ -1,6 +1,6 @@
 import os
 import sys
-import requests
+
 from os import remove
 from os import  path
 
